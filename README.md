@@ -15,10 +15,40 @@ Learning notes for web3, including solidity, web3.js, truffle, ganache, ...etc.
 
 ## [✍️ web3-planning](./)
 
-Planning for web3.
+This section outlines my personal journey and future plans in Web3 development.
 
----
+Over the past few months, I’ve been actively following Web3 news, tracking airdrops, and diving deeper into decentralized app development using Flutter and Solidity.
 
+### ✅ What I’ve Achieved So Far:
+
+Built two Web3 mobile apps using Flutter:
+
+* 🖼️ [NFT Minter]('https://github.com/alkhatib99/nft_minter_app') – Allows users to mint NFTs directly from their mobile devices.
+
+* 📊 Crypto Tracker – Provides real-time cryptocurrency price updates and alerts
+
+* 🔑 [Flutter Web3 Wallet]('https://github.com/alkhatib99/flutter-web3-wallet') – A sleek, testnet-ready Web3 wallet UI built in Flutter using web3dart.
+
+* 👨‍💻 I Learned Solidity and wrote my first smart contract.
+
+* ✍️ Currently, Working on [Gas Price Tracker]('https://github.com/alkhatib99/gas_price_tracker')
+
+### 🚀 Upcoming Projects & Ideas:
+I plan to expand my Web3 portfolio with the following DApps and tools:
+
+* 🎮 On-Chain Game Logic – Game mechanics executed fully on the blockchain.
+
+* 🧾 Multisig Wallet Simulator – Simulate multisignature wallet approvals in-app.
+
+* 🗳️ Voting DApp – Token-based decentralized voting system.
+
+* 🖼️ NFT Minting DApp – More advanced version with metadata customization.
+
+* 🔐 Ethereum Wallet Generator – Securely generate wallets from Flutter.
+
+* 📈 Gas Price Tracker – Ongoing project for real-time gas insights.
+
+My goal is not only to sharpen my skills but also to attract clients by offering smart, real-world Web3 solutions built with modern tools.
 ## [👨‍💻 web3-dev](./)
 
 Development for web3.
