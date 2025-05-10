@@ -1,0 +1,3 @@
+[submodule "gas_price_tracker"]
+	path = gas_price_tracker
+	url = https://github.com/alkhatib99/gas_price_tracker.git
