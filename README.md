@@ -111,4 +111,4 @@ I'm particularly interested in integrating Web3 into modern apps using Flutter, 
 
 ⭐ If you found any note helpful, feel free to star the repo or fork it to start your own journey.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alkhatib99/web3/web3-learning-notes)
+[![GitHub](https://github.com/alkhatib99/web3/blob/main/web3-learning-notes/README.md)
